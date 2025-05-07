@@ -4,9 +4,9 @@ Este es un proyecto de Java el cual se conecta a una API de tasas de cambio para
 
 ## 📦 Estructura del proyecto
 src/
-├── ApiConnexion/ # Lógica para conectar y consumir la API
-├── Conversiones/ # Clases para realizar operaciones basicas
-└── Principal/ # Punto de entrada del programa
+ - ApiConnexion/ # Lógica para conectar y consumir la API
+ - Conversiones/ # Clases para realizar operaciones basicas
+ - Principal/ # Punto de entrada del programa
 
 ## 🚀 Funcionalidades
 
